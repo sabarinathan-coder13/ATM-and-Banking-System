@@ -48,9 +48,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
+<img width="944" height="846" alt="image" src="https://github.com/user-attachments/assets/df14611a-f9f2-4516-8d29-f38ca1cdf7b0" />
 
 
 
@@ -68,6 +66,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1096" height="820" alt="image" src="https://github.com/user-attachments/assets/ecadae8c-ade2-4ca5-a085-5b86c9787a6e" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -76,7 +75,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
+<img width="872" height="744" alt="image" src="https://github.com/user-attachments/assets/9168a835-1a5c-45b0-92e2-837bcb79da63" />
 
 
 # PACKAGE DIAGRAM:
@@ -87,12 +86,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
-
+<img width="1168" height="773" alt="image" src="https://github.com/user-attachments/assets/ea687be9-ee7b-4dc4-977e-d6685ecbbc88" />
 
 # ACTIVITY DIAGRAM:
 
@@ -106,9 +100,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
-
+<img width="965" height="914" alt="image" src="https://github.com/user-attachments/assets/cb415ee3-01da-4fe8-8e3e-f564e633b36c" />
 
 # SEQUENCE DIAGRAM
 
@@ -116,6 +108,7 @@ A sequence diagram is a type of intera jon diagram because it describes how- and
 
 a new system or to document an existing process. Sequence diagrams are sometimes known as event diagrams or event scenarios.
 
+<img width="1074" height="749" alt="image" src="https://github.com/user-attachments/assets/299bfdcc-9dfd-44b7-bf9a-09307fa33648" />
 
 # BENEFITS OF SEQUENCE DIAGRAM
 
